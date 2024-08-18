@@ -1,6 +1,6 @@
 cask 'networx' do
   version '7.2'
-  sha256 '544c64b6f04c6efb33ef3b7d375ca39fcfafa10dd65c9439e13af6d16181d590'
+  sha256 'a760a793b9a610beeacfda6aced5261c9f35278684640b4c2228b6b6ce511232'
 
   url "https://www.softperfect.com/download/files/networx_macos.dmg"
   name 'networx'
